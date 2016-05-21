@@ -404,7 +404,7 @@ Will clear [modlist|rules|about] and set it to nil
 !res [username]
 Returns user id
 
-!log
+!loggggggggggg
 Will return group logs
 
 !banlist
